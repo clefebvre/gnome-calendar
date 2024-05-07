@@ -24,7 +24,7 @@
 #include "gcal-month-popover.h"
 #include "gcal-utils.h"
 
-#include <adwaita.h>
+#include <advaita.h>
 
 #define RATIO_TO_RELATIVE  1.25
 #define MIN_WIDTH          250

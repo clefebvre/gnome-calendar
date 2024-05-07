@@ -1,7 +1,7 @@
 src_inc = include_directories('.')
 
 gcal_deps = [
-  libadwaita_dep,
+  libadvaita_dep,
   gsettings_desktop_schemas_dep,
   libedataserverui_dep,
   libedataserver_dep,

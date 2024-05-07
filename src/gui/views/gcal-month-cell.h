@@ -21,7 +21,7 @@
 
 #include "gcal-context.h"
 
-#include <adwaita.h>
+#include <advaita.h>
 
 G_BEGIN_DECLS
 

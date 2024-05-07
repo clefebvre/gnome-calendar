@@ -23,7 +23,7 @@
 #include "gcal-manager.h"
 
 #include <libecal/libecal.h>
-#include <adwaita.h>
+#include <advaita.h>
 
 G_BEGIN_DECLS
 

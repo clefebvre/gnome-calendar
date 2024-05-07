@@ -18,7 +18,7 @@
 #ifndef __GCAL_DATE_CHOOSER_H__
 #define __GCAL_DATE_CHOOSER_H__
 
-#include <adwaita.h>
+#include <advaita.h>
 
 G_BEGIN_DECLS
 

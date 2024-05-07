@@ -20,7 +20,7 @@
 
 #pragma once
 
-#include <adwaita.h>
+#include <advaita.h>
 #include <libecal/libecal.h>
 
 G_BEGIN_DECLS

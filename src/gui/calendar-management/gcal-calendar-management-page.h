@@ -20,7 +20,7 @@
 
 #pragma once
 
-#include <adwaita.h>
+#include <advaita.h>
 
 #include "gcal-calendar.h"
 

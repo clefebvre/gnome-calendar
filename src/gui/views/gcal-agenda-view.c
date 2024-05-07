@@ -27,7 +27,7 @@
 #include "gcal-utils.h"
 #include "gcal-view-private.h"
 
-#include <adwaita.h>
+#include <advaita.h>
 #include <glib/gi18n.h>
 
 #include <math.h>

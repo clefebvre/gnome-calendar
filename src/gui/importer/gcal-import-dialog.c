@@ -27,7 +27,7 @@
 #include "gcal-import-file-row.h"
 #include "gcal-utils.h"
 
-#include <adwaita.h>
+#include <advaita.h>
 #include <glib/gi18n.h>
 
 typedef struct

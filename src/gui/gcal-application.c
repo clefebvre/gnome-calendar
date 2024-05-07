@@ -171,7 +171,7 @@ build_system_information (void)
                           GTK_MINOR_VERSION,
                           GTK_MICRO_VERSION);
   g_string_append_printf (str,
-                          "* Libadwaita: %d.%d.%d (%d.%d.%d)\n",
+                          "* Libadvaita: %d.%d.%d (%d.%d.%d)\n",
                           adw_get_major_version (),
                           adw_get_minor_version (),
                           adw_get_micro_version (),

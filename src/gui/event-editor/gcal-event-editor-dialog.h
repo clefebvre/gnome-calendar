@@ -19,7 +19,7 @@
 
 #pragma once
 
-#include <adwaita.h>
+#include <advaita.h>
 
 #include "gcal-event.h"
 #include "gcal-manager.h"

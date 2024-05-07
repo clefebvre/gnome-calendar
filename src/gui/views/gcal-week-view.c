@@ -29,7 +29,7 @@
 #include "gcal-week-grid.h"
 #include "gcal-week-view.h"
 
-#include <adwaita.h>
+#include <advaita.h>
 #include <glib/gi18n.h>
 
 #include <math.h>

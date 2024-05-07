@@ -34,7 +34,7 @@
 #include "gcal-view-private.h"
 
 #include <math.h>
-#include <adwaita.h>
+#include <advaita.h>
 
 #define N_ROWS_PER_PAGE 5
 #define N_PAGES 5
